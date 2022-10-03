@@ -11,3 +11,9 @@ body{
     height: 100%;
     background: #ccc;
 }
+.logo{
+    width: 130px;
+    aspect-ratio: 45/40;
+    background: url('../images/stackLogo.svg');
+    background-size: cover;
+}

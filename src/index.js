@@ -11,3 +11,6 @@ document.body.insertAdjacentElement("beforeend", content);
 const logo = document.createElement('div');
 logo.classList.add('logo');
 content.insertAdjacentElement('beforeend', logo);
+const logo2 = document.createElement('div');
+logo.classList.add('logo2');
+content.insertAdjacentElement('beforeend', logo2);
